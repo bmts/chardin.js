@@ -76,7 +76,7 @@
 
 .chardinated [class*="fixed"] {
   z-index: auto;
-  position: absolute; }
+  position: fixed; }
 
 .chardinjs-tooltiptext {
   text-align: center; }

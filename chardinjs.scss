@@ -65,7 +65,7 @@
 .chardinated {
   [class*="fixed"] {
     z-index: auto;
-    position: absolute;
+    position: fixed;
   }
 }
 
